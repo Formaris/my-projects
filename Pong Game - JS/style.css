@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: flex;
+    margin: 0 auto;
+    min-width: 50%;
+  }
+  
+  h1{
+      display: flex;
+      justify-content: center;
+}
+
+h1:hover{
+    color: blue;
+}
+h1:active{
+    background-color: red;
+}

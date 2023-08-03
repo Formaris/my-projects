@@ -1,0 +1,6 @@
+git add . 
+
+git commit -m 'jogo do mario'
+
+git push -u origin main
+
